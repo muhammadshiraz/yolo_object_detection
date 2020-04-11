@@ -30,7 +30,7 @@ Real time detection can be use via command prompt or GUI.
 		<th><strong>Real Walking Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/yolo_object_detection/blob/master/doc/detector3.jpg"></td>
+		<td style="width: 100%;"><img src="https://github.com/muhammadshiraz/yolo_object_detection/blob/master/doc/detector4.jpg"></td>
 	</tr>
 </tbody>
 </table>
